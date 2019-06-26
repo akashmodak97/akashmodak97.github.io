@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'cartoon-free';
+    src:url('cartoon-free/cartoon_free-webfont.eot');
+    src: url('cartoon-free/cartoon_free-webfont.woff2') format('woff2'),
+         url('cartoon-free/cartoon_free-webfont.woff') format('woff'),
+         url('cartoon-free/CARTOON FREE.ttf') format('ttf');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'londonerregular';
+    src:url('londoner/londoner-webfont.eot');
+    src: url('londoner/londoner-webfont.woff2') format('woff2'),
+         url('londoner/londoner-webfont.woff') format('woff'),
+         url('londoner/londonerregular.ttf') format('ttf');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
