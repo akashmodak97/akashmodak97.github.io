@@ -8,7 +8,7 @@ body,html{
 
   /* Set a specific height */
   height: 100%;
-
+  display : block;
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
@@ -24,6 +24,7 @@ body,html{
   transform: translate(-50%, -50%);
   color: white;
   font-size: 50px;
+  display : block;
 }
 .text p{
 	font-size: 30px;
